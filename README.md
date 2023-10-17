@@ -32,7 +32,8 @@ src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> fro
 <a href="https://www.linkedin.com/in/peter-okon-2384401a9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
 <a href="https://twitter.com/Peterpet864?t=fOtv9BSt0sEnFdIxwFZ3Jw&s=09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+</a>
+
 </div>
 <img src="https://komarev.com/ghpvc/?username=Peterpet864&style=flat-square&color=blue" alt=""/>
 <h1> 
