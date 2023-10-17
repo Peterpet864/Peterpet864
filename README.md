@@ -4,16 +4,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/peter-okon-2384401a9">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/peter.okon.3304">
-    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
-  </a>
-  <a href="https://twitter.com/Peterpet864?t=fOtv9BSt0sEnFdIxwFZ3Jw&s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+### Socials
+                  
+                  
+<p align="left">
+                          
+<a href="https://github.com/Peterpet864" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+                          
+<a href="https://www.linkedin.com/in/peter-okon-2384401a9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+<a href="https://twitter.com/Peterpet864?t=fOtv9BSt0sEnFdIxwFZ3Jw&s=09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Peterpet864&style=flat-square&color=blue" alt=""/>
 <h1> 
