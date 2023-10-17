@@ -1,4 +1,4 @@
-Hi ![](https://github.com/Peterpet864.githubusercontent.com.gif)I'm Peter Okon
+Hi ![](https://github.com/Peterpet864.githubusercontent.com.gif)my name is Peter Okon
 ====================================================================================================================================
 
 ### A Full-Stack developer| DevOps Engineer 
@@ -7,9 +7,9 @@ Hi ![](https://github.com/Peterpet864.githubusercontent.com.gif)I'm Peter Okon
 </div>
 
 ### :man_technologist: About Me :
-**My name is Peter Okon, a Full Stack Developer, creating technology to elevate people, and building communities. Some technologies i enjoy working with are ReactJS, (JavaScript, APIs + markup)
+**I'm passionate about creating technology to elevate people, and building communities. Some technologies i enjoy working with are ReactJS, (JavaScript, APIs + markup)**
 <img
-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria**
+src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 * 🌍 I'm based in Lagos
 * 📧 you can contact me at [Peterokon86@yahoo.com](mailto:Peterokon86@yahoo.com.com)
