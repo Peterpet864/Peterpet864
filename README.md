@@ -31,9 +31,6 @@ src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 </div>
 <img src="https://komarev.com/ghpvc/?username=Peterpet864&style=flat-square&color=blue" alt=""/>
-<h1> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</a>
   ---
   
 ### :hammer_and_wrench: Languages and Tools :
