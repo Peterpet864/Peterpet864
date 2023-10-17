@@ -1,10 +1,26 @@
-Hi ![](https://github.com/Peterpet864.githubusercontent.com.gif)My name is Peter Okon
+Hi ![](https://github.com/Peterpet864.githubusercontent.com.gif)I'm Peter Okon
 ====================================================================================================================================
 
 ### A Full-Stack developer| DevOps Engineer 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+### :man_technologist: About Me :
+**My name is Peter Okon, I'm a Full Stack Developer <img
+src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria**
+
+* 🌍 I'm based in Lagos
+* 📧 you can contact me at [Peterokon86@yahoo.com](mailto:Peterokon86@yahoo.com.com)
+* 🤝 I'm open to collaborating on Interesting projects, Open Source projects.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peter-okon-2384401a9)
+
 ### Socials
                   
                   
@@ -23,22 +39,7 @@ Hi ![](https://github.com/Peterpet864.githubusercontent.com.gif)My name is Peter
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
----
-
-### :man_technologist: About Me :
-**My name is Peter Okon, I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria**
-
-* 🌍 I'm based in Lagos
-* 📧 you can contact me at [Peterokon86@yahoo.com](mailto:Peterokon86@yahoo.com.com)
-* 🤝 I'm open to collaborating on Interesting projects, Open Source projects.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peter-okon-2384401a9)
+<div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
