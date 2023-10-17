@@ -11,7 +11,7 @@ Hi ![](https://github.com/Peterpet864.githubusercontent.com.gif)my name is Peter
 <img
 src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* 🌍 I'm based in Lagos
+* 🌍 I'm based in Lagos,Nigeria 
 * 📧 you can contact me at [Peterokon86@yahoo.com](mailto:Peterokon86@yahoo.com.com)
 * 🤝 I'm open to collaborating on Interesting projects, Open Source projects.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
