@@ -1,5 +1,4 @@
 ### Hi 👋 my name is Peter Okon
-----------------------------
 
 ### A Full-Stack developer| DevOps Engineer 
 <div id="header" align="center">
@@ -17,11 +16,7 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Peterpet864&style=flat-square&color=blue" alt=""/>
-<h1>
-  
-*   🌍  I'm based in Lagos, Nigeria
-*   ✉️  You can contact me at [Peterokon86@yahoo.com](mailto:Peterokon86@yahoo.com)
-*   🤝  I'm open to collaborating on Interesting projects, Open Source projects### Skills  
+<h1> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -31,6 +26,10 @@
 
 ### :man_technologist: About Me :
 **My name is Peter Okon, I'm a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria**
+
+* 🌍 I'm based in Lagos
+* 📧 you can contact me at [Peterokon86@yahoo.com](mailto:Peterokon86@yahoo.com.com)
+* 🤝 I'm open to collaborating on Interesting projects, Open Source projects.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
