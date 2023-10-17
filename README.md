@@ -7,7 +7,7 @@ Hi ![](https://github.com/Peterpet864.githubusercontent.com.gif)my name is Peter
 </div>
 
 ### :man_technologist: About Me :
-**I'm passionate about creating technology to elevate people, and building communities. Some technologies i enjoy working with are ReactJS, (JavaScript, APIs + markup)**
+**I'm passionate about creating technology to elevate people, and building communities. Some technologies i enjoy working with are ReactJS, (JavaScript, APIs + markup, MySQL and Node.JS)**
 <img
 src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
