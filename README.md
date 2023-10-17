@@ -1,4 +1,5 @@
-### Hi 👋 my name is Peter Okon
+Hi ![](https://github.com/Peterpet864.githubusercontent.com.gif)My name is Peter Okon
+====================================================================================================================================
 
 ### A Full-Stack developer| DevOps Engineer 
 <div id="header" align="center">
