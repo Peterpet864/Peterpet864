@@ -7,7 +7,7 @@ Hi ![](https://github.com/Peterpet864.githubusercontent.com.gif)I'm Peter Okon
 </div>
 
 ### :man_technologist: About Me :
-**My name is Peter Okon, I'm a Full Stack Developer <img
+**My name is Peter Okon, I'm a Full Stack Developer,creating technology to elevate people, and building communities <img
 src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria**
 
 * 🌍 I'm based in Lagos
