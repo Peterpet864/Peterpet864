@@ -1,4 +1,4 @@
-hi ![](https://github.com/Peterpet864.githubusercontent.com.gif)my name is Peter Okon
+Hey there, ![](https://github.com/Peterpet864.githubusercontent.com.gif)my name is Peter Okon
 ====================================================================================================================================
 
 ### A Full-Stack developer| DevOps Engineer 
