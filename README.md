@@ -31,6 +31,20 @@ src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### Socials
+                                   
+<p align="left">
+                          
+<a href="https://github.com/Peterpet864" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+                          
+<a href="https://www.linkedin.com/in/peter-okon-2384401a9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+<a href="https://twitter.com/Peterpet864?t=fOtv9BSt0sEnFdIxwFZ3Jw&s=09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</a>
+
+</div>
+<img src="https://komarev.com/ghpvc/?username=Peterpet864&style=flat-square&color=blue" alt=""/>
 ---
 
 ### :fire: My Stats :
