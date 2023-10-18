@@ -1,7 +1,7 @@
 Hey there, ![](https://github.com/Peterpet864.githubusercontent.com.gif)my name is Peter Okon
 ====================================================================================================================================
 
-### A Full-Stack developer| DevOps Engineer 
+### A Full-Stack developer | DevOps Engineer 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
